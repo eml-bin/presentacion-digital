@@ -3,8 +3,8 @@
 /* Incluye variables root y CSS de elementos */
 :root {
   --color-texto: #292929;
-  --color-gradienteTarjeta-inicio: #00468C;
-  --color-gradienteTarjeta-fin: #87CEFA;
+  --color-gradienteTarjeta-inicio: #002B5C;
+  --color-gradienteTarjeta-fin: #4682B4;
   --color-fondoTarjeta: white;
 
   --verdeazul: rgb(93, 180, 300);
